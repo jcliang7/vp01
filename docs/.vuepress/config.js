@@ -17,7 +17,9 @@ module.exports = {
         ],
         sidebar: [
             '/intro',
-            ['/carpet', '》彩音地墊']
+            ['/carpet', '》彩音地墊'],
+            ['/new', '書本位置'],
+            '/ooxx',
           ]
         },
 };
